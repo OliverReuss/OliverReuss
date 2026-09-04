@@ -17,6 +17,7 @@ I'm a **Media Informatics B.Sc.** and **Software Engineer** passionate about bri
 ---
 
 #### 📫 Connect & Socials
-[![itch.io](https://img.shields.io/badge/itch.io-Games-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://deltaforcer1.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-reuss/)
-[![Discord](https://img.shields.io/badge/deltaforcer1-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/542377633485160478)
+
+[![itch.io](https://img.shields.io/badge/itch.io-deltaforcer1-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://deltaforcer1.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oliver_Reuß-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-reuss/)
+[![Discord](https://img.shields.io/badge/Discord-deltaforcer1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/542377633485160478)
